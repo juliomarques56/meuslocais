@@ -1,0 +1,14 @@
+{
+    "name": "juliomarques56/meuslocais",
+    "description": "Projeto para salvar os locais que ja visitei",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Júlio Marques",
+            "email": "jotamarques56@gmail.com"
+        }
+    ],
+    "require": {
+        "jarouche/viacep": "^1.2"
+    }
+}
